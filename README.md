@@ -1,9 +1,3 @@
-Great question, Gauri!
-
-If you’re looking for a simple, **human-friendly README text** (not the code format), here’s the **actual README content in plain English** that you can copy and paste into your GitHub `README.md` file or describe during a project presentation:
-
----
-
 ## 📝 Final README Text (Plain & Professional)
 
 ---
