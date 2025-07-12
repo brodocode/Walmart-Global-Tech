@@ -1,58 +1,98 @@
-<h1 align="center" style="font-family:Arial; font-size: 40px;">📊 Walmart Global Tech: ETL Data Pipeline Project</h1>
+Great question, Gauri!
 
-<p align="center"><i>A hands-on data engineering project focused on ETL operations using Walmart's data with AstraDB, Jupyter Notebook, and Python</i></p>
-
----
-
-## 🛠️ <font size="4">Project Overview</font>
-
-This project demonstrates how to:
-
-- Design and build a basic **ETL (Extract-Transform-Load)** pipeline
-- Use **DataStax Astra DB** (a cloud-native NoSQL database)
-- Write and test **Cassandra CQL queries**
-- Analyze data in **Jupyter Notebook** using **Python**
+If you’re looking for a simple, **human-friendly README text** (not the code format), here’s the **actual README content in plain English** that you can copy and paste into your GitHub `README.md` file or describe during a project presentation:
 
 ---
 
-## 📁 <font size="4">Directory Structure</font>
-Walmart-Global-Tech/
-│
-├── README.md
-├── data/ # Sample Walmart data (CSV/JSON)
-├── notebooks/ # Jupyter Notebooks for analysis
-├── astra-db/ # CQL scripts, Astra DB credentials
-└── requirements.txt # Python dependencies
-
+## 📝 Final README Text (Plain & Professional)
 
 ---
 
-## 🔧 <font size="4">Tech Stack</font>
+# 📊 Walmart Global Tech: ETL Data Pipeline Project
 
-| Tool | Purpose |
-|------|---------|
-| **Python** | Data scripting |
-| **Jupyter Notebook** | Exploratory data analysis |
-| **Astra DB (Cassandra)** | NoSQL database |
-| **CQL (Cassandra Query Language)** | Data querying |
-| **Pandas, NumPy** | Data wrangling |
+A hands-on data engineering and analytics project built using AstraDB, Python, and Jupyter Notebook. The goal of the project is to simulate an end-to-end **ETL (Extract, Transform, Load)** workflow using sample Walmart datasets.
 
 ---
 
-## 📊 <font size="4">Key Features</font>
+## 🔍 Project Overview
 
-- ✅ Clean and transform raw Walmart transactional data
-- ✅ Load structured data into AstraDB
-- ✅ Perform CQL queries and extract insights
-- ✅ Visualize patterns in customer and product data
+This project demonstrates:
+
+* Extracting transactional data from CSV files
+* Cleaning and transforming the data using Python and Pandas
+* Loading the cleaned data into **Astra DB (Cassandra-based NoSQL database)**
+* Querying the database using **CQL (Cassandra Query Language)**
+* Visualizing data using Jupyter Notebook to derive meaningful insights
 
 ---
 
-## 🚀 <font size="4">How to Run</font>
+## 🧰 Tools and Technologies
 
-1. **Clone the repo**
-   ```bash
+* **Python** – For scripting the ETL logic
+* **Pandas** – For data wrangling
+* **Jupyter Notebook** – For step-by-step execution and analysis
+* **Astra DB** – Cloud-hosted NoSQL database
+* **CQL** – To interact with the database
+
+---
+
+## 📂 Project Structure
+
+* `data/` – Raw Walmart data
+* `notebooks/` – Jupyter Notebooks containing the ETL pipeline
+* `astra-db/` – Secure bundle and connection scripts
+* `requirements.txt` – List of Python dependencies
+* `README.md` – Project documentation
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+   ```
    git clone https://github.com/brodocode/Walmart-Global-Tech.git
+   ```
 
+2. Install required libraries:
 
+   ```
+   pip install -r requirements.txt
+   ```
 
+3. Run the notebook:
+
+   * Open `notebooks/walmart_etl.ipynb`
+   * Follow the steps to extract, clean, and load data
+
+4. Set up Astra DB:
+
+   * Create an account on [datastax.com/astra](https://www.datastax.com/astra)
+   * Download the **secure connect bundle**
+   * Link it in the notebook for DB access
+
+---
+
+## 📈 Key Insights (Examples)
+
+* Top product categories by volume
+* Customer purchase frequency
+* City-level transactional trends
+
+---
+
+## 👩‍💻 About the Author
+
+**Gauri (brodocode)**
+Aspiring Data Engineer & Analyst
+📍India | 🌐 [GitHub](https://github.com/brodocode)
+
+---
+
+## ⭐ Support
+
+If you find this project helpful, give it a ⭐ on GitHub and feel free to fork it for your own practice!
+
+---
+
+Let me know if you'd like a shorter version or want to include a section like **"Future Work"** or **"Screenshots"**!
