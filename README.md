@@ -1,7 +1,3 @@
-## 📝 Final README Text (Plain & Professional)
-
----
-
 # 📊 Walmart Global Tech: ETL Data Pipeline Project
 
 A hands-on data engineering and analytics project built using AstraDB, Python, and Jupyter Notebook. The goal of the project is to simulate an end-to-end **ETL (Extract, Transform, Load)** workflow using sample Walmart datasets.
