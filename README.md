@@ -1,84 +1,54 @@
-# 📊 Walmart Global Tech: ETL Data Pipeline Project
+# 🛒 Walmart Global Tech – Advanced Software Engineering Job Simulation
 
-A hands-on data engineering and analytics project built using AstraDB, Python, and Jupyter Notebook. The goal of the project is to simulate an end-to-end **ETL (Extract, Transform, Load)** workflow using sample Walmart datasets.
-
----
-
-## 🔍 Project Overview
-
-This project demonstrates:
-
-* Extracting transactional data from CSV files
-* Cleaning and transforming the data using Python and Pandas
-* Loading the cleaned data into **Astra DB (Cassandra-based NoSQL database)**
-* Querying the database using **CQL (Cassandra Query Language)**
-* Visualizing data using Jupyter Notebook to derive meaningful insights
+Welcome to the repository showcasing my work on the **Advanced Software Engineering Virtual Job Simulation** by **Walmart Global Tech**. This project represents a hands-on, self-paced learning experience where I tackled real-world technical challenges mirroring those faced by software engineers at Walmart.
 
 ---
 
-## 🧰 Tools and Technologies
+## 📌 About the Program
 
-* **Python** – For scripting the ETL logic
-* **Pandas** – For data wrangling
-* **Jupyter Notebook** – For step-by-step execution and analysis
-* **Astra DB** – Cloud-hosted NoSQL database
-* **CQL** – To interact with the database
+This simulation, hosted on the Forage platform, offered a risk-free opportunity to engage with advanced software engineering tasks across various departments at Walmart USA. It was designed to provide practical experience, enhance problem-solving abilities, and strengthen my readiness for roles in the software and tech industry.
 
----
-
-## 📂 Project Structure
-
-* `data/` – Raw Walmart data
-* `notebooks/` – Jupyter Notebooks containing the ETL pipeline
-* `astra-db/` – Secure bundle and connection scripts
-* `requirements.txt` – List of Python dependencies
-* `README.md` – Project documentation
+- ⏱ Duration: 3–4 hours (self-paced)
+- 🛠️ Mode: Online
+- 📈 Difficulty: Advanced
+- 💻 Outcome: Completion Certificate
 
 ---
 
-## 🚀 Getting Started
+## 🎯 Objectives
 
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/brodocode/Walmart-Global-Tech.git
-   ```
-
-2. Install required libraries:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-
-   * Open `notebooks/walmart_etl.ipynb`
-   * Follow the steps to extract, clean, and load data
-
-4. Set up Astra DB:
-
-   * Create an account on [datastax.com/astra](https://www.datastax.com/astra)
-   * Download the **secure connect bundle**
-   * Link it in the notebook for DB access
+Through this simulation, I:
+- Solved complex problems involving **data structures**, **software architecture**, and **database design**
+- Applied my skills in **Java**, **Python**, and **SQL**
+- Practiced optimization techniques and software design principles
+- Gained insights into real-world software engineering roles at Walmart
 
 ---
 
-## 📈 Key Insights (Examples)
+## 🧠 Skills Gained
 
-* Top product categories by volume
-* Customer purchase frequency
-* City-level transactional trends
-
----
-
-## 👩‍💻 About the Author
-
-**Gauri (brodocode)**
-Aspiring Data Engineer & Analyst
-📍India | 🌐 [GitHub](https://github.com/brodocode)
+- Java Programming  
+- Python & Data Munging  
+- Advanced Data Structures (Power-of-Two Max Heap)  
+- Software Optimization & Benchmarking  
+- UML & Software Architecture Design  
+- Relational Database Design  
+- SQL Query Development  
 
 ---
 
-## ⭐ Support
+## 🚀 Tasks Completed
 
-If you find this project helpful, give it a ⭐ on GitHub and feel free to fork it for your own practice!
+### ✅ Task 1: Advanced Data Structures
+- Implemented a **Power-of-Two Max Heap** in Java  
+- Ensured the structure upheld heap properties  
+- Benchmarked and optimized performance
+
+> 💡 Key Learning: Efficiently modifying core data structures and understanding their impact on performance in real-world applications.
+
+---
+
+## 🏁 Program Outcome
+
+✔️ **Program Completed Successfully**  
+🎓 **Certificate of Completion Earned**  
