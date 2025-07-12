@@ -16,4 +16,43 @@ This project demonstrates how to:
 ---
 
 ## 📁 <font size="4">Directory Structure</font>
+Walmart-Global-Tech/
+│
+├── README.md
+├── data/ # Sample Walmart data (CSV/JSON)
+├── notebooks/ # Jupyter Notebooks for analysis
+├── astra-db/ # CQL scripts, Astra DB credentials
+└── requirements.txt # Python dependencies
+
+
+---
+
+## 🔧 <font size="4">Tech Stack</font>
+
+| Tool | Purpose |
+|------|---------|
+| **Python** | Data scripting |
+| **Jupyter Notebook** | Exploratory data analysis |
+| **Astra DB (Cassandra)** | NoSQL database |
+| **CQL (Cassandra Query Language)** | Data querying |
+| **Pandas, NumPy** | Data wrangling |
+
+---
+
+## 📊 <font size="4">Key Features</font>
+
+- ✅ Clean and transform raw Walmart transactional data
+- ✅ Load structured data into AstraDB
+- ✅ Perform CQL queries and extract insights
+- ✅ Visualize patterns in customer and product data
+
+---
+
+## 🚀 <font size="4">How to Run</font>
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/brodocode/Walmart-Global-Tech.git
+pip install -r requirements.txt
+
 
