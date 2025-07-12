@@ -82,7 +82,3 @@ Aspiring Data Engineer & Analyst
 ## ⭐ Support
 
 If you find this project helpful, give it a ⭐ on GitHub and feel free to fork it for your own practice!
-
----
-
-Let me know if you'd like a shorter version or want to include a section like **"Future Work"** or **"Screenshots"**!
